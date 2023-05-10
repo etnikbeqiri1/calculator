@@ -1,0 +1,6 @@
+backend/mysql/
+backend/src/.env
+
+frontend/node_modules
+frontend/.idea
+frontend/.env
