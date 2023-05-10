@@ -15,7 +15,6 @@ import {useHistory} from "../../api/hooks/use-history";
 import {useExpression} from "../../api/hooks/use-expresion";
 import {useDeleteHistoryItem} from "../../api/hooks/use-delete-history-item";
 import {useDeleteHistory} from "../../api/hooks/use-delete-history";
-import {notifications} from "@mantine/notifications";
 
 export default function Calculator(){
     const form = useForm({
